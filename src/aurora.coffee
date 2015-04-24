@@ -6,6 +6,8 @@ require './demuxers/m4a'
 require './demuxers/aiff'
 require './demuxers/wave'
 require './demuxers/au'
+require './demuxers/adts'
 
 require './decoders/lpcm'
 require './decoders/xlaw'
+require './decoders/aac'

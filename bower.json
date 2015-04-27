@@ -1,0 +1,28 @@
+{
+  "name": "aurora-ext",
+  "version": "0.1",
+  "homepage": "https://github.com/garyyeap/aurora-ext",
+  "authors": [
+    "Gary Yeap <contact@garyyeap.com>"
+  ],
+  "description": "Audora framework with aac decoder packed",
+  "main": "build/aurora-ext.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "aurora",
+    "aac"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "*.coffee",
+    "package.json"
+  ]
+}
